@@ -12,7 +12,7 @@ I am a second-year PhD candidate in Information Retrieval Group at the Faculty o
 Interested in information retrieval (IR), with a particular focus on 
 
 - personalized conversational search, 
-- synthetic data generation
+- synthetic data generation,
 - large language models (LLMs).
 
 #My curriculum vitae is available [here](https://SimonLupart.github.io/files/CV_Simon_Lupart.pdf).   
