@@ -39,7 +39,7 @@ Education
 ======
 * November 2023 - Present   
   - Ph.D. in Informatics, Università della Svizzera italiana (USI), Switzerland  
-  - Supervisors: Prof. Dr. [Fabio Crestani](https://scholar.google.com/citations?user=EoGBsiMAAAAJ&hl=en)
+  - Supervisor: Prof. Dr. [Fabio Crestani](https://scholar.google.com/citations?user=EoGBsiMAAAAJ&hl=en)
 
 * August 2020 – September 2022    
   - Master in Data Science, KTH, Sweden (EIT Digital Program Year 1)
