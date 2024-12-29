@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD candidate in Information Retrieval Group at the Faculty of Informatics of Università della Svizzera italiana (USI). After completing my Master's degree, I spent a year working as an NLP engineer, at Qatent, France. I mainly focused on generative tasks in the domain of patent. I then joined USI to pursue a PhD and dedicate myself fully to academic research. My doctoral studies are supervised by Prof. Dr. [Fabio Crestani](https://scholar.google.com/citations?user=EoGBsiMAAAAJ&hl=en).
+I am a second-year PhD candidate in Information Retrieval Group at the Faculty of Informatics of Università della Svizzera italiana (USI). My doctoral studies are supervised by Prof. Dr. [Fabio Crestani](https://scholar.google.com/citations?user=EoGBsiMAAAAJ&hl=en). After completing my Master's degree, I spent a year working as an NLP engineer, at Qatent, France, where I mainly focused on generative tasks in the domain of patent. 
 
 Interested in information retrieval (IR), with a particular focus on 
 
@@ -22,8 +22,9 @@ My Profile:
 
 Publications
 ======
-1. Ivan Sekulić, **Lili Lu**, Navdeep Singh Bedi, Fabio Crestani. **Simulating Conversational Search Users with Parameterized Behavior**. SIGIR-AP'24 [[link]](https://dl.acm.org/doi/pdf/10.1145/3673791.3698425)
-2. Isin Su Ecevit, **Lili Lu**, Fabio Crestani. **Responses to Conversational Information Retrieval Clarifying Questions with User Emotions**. EMTCIR/UM-CIR@SIGIR-AP'24 [[link]](https://ceur-ws.org/Vol-3854/um-cir-2.pdf)
+1. **Lili Lu**, Chuan Meng, Federico Ravenda, Mohammad Aliannejadi, Fabio Crestani. **Zero-Shot and Efficient Clarification Need Prediction in Conversational Search**. Accepted by ECIR'25
+2. Ivan Sekulić, **Lili Lu**, Navdeep Singh Bedi, Fabio Crestani. **Simulating Conversational Search Users with Parameterized Behavior**. SIGIR-AP'24 [[link]](https://dl.acm.org/doi/pdf/10.1145/3673791.3698425)
+3. Isin Su Ecevit, **Lili Lu**, Fabio Crestani. **Responses to Conversational Information Retrieval Clarifying Questions with User Emotions**. EMTCIR/UM-CIR@SIGIR-AP'24 [[link]](https://ceur-ws.org/Vol-3854/um-cir-2.pdf)
 
 
 Teaching & Supervision
@@ -51,4 +52,4 @@ Contact
 ======
 * Email: lili.lu@usi.ch
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=350&t=tt&d=U7sDAtZ-Gc9txp9FXtR_9aTt3s0QsAcWShXKgsGv4MY'></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=rwPCM2AlBAvRk17GG_GoUeK3NRaZUWOteNziTP1rM2A&cl=ffffff&w=a"></script>
