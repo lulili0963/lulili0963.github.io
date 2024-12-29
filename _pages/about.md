@@ -15,7 +15,6 @@ Interested in information retrieval (IR), with a particular focus on
 - synthetic data generation,
 - large language models (LLMs).
 
-#My curriculum vitae is available [here](https://SimonLupart.github.io/files/CV_Simon_Lupart.pdf).   
 
 [[LinkedIn]](www.linkedin.com/in/lili-lu) [[Twitter]](https://x.com/lililu0963)
 
