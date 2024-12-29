@@ -36,7 +36,7 @@ Teaching & Supervision
 
 Education
 ======
-* November 2023-Present   
+* November 2023 - Present   
   - Ph.D. in Informatics, Università della Svizzera italiana (USI), Switzerland  
   - Supervisors: Prof. Dr. [Fabio Crestani](https://scholar.google.com/citations?user=EoGBsiMAAAAJ&hl=en)
 
