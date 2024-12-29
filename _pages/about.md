@@ -45,7 +45,7 @@ Education
   - Master in Artifical Intelligence, Université Paris-Saclay, France (EIT Digital Program Year 2)
  
 * September 2012 – June 2016  
-  - Bachelor in Mathematics and Applied Mathematics (Mathematical Finance), Donghua University, China  
+  - Bachelor in Mathematics and Applied Mathematics, Donghua University, China  
 
 Contact
 ======
