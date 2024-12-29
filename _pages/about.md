@@ -15,7 +15,7 @@ Interested in information retrieval (IR), with a particular focus on
 - synthetic data generation,
 - large language models (LLMs).
 
-
+My Profile:
 [[LinkedIn]](www.linkedin.com/in/lili-lu) [[Twitter]](https://x.com/lililu0963)
 
 
