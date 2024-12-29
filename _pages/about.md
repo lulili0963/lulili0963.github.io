@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD candidate in Information Retrieval Group at the Faculty of Informatics of Università della Svizzera italiana (USI). After completing my Master's degree, I spent a year working as an NLP engineer, at Qatent, France. I mainly focused on generative tasks in the domain of patent. I then joined USI to pursue a PhD and dedicate myself fully to academic research. My doctoral studies are supervised by Prof. Dr. [Fabio Crestani](https://scholar.google.com/citations?user=EoGBsiMAAAAJ&hl=en).
+I am a second-year PhD candidate in Information Retrieval Group at the Faculty of Informatics of Università della Svizzera italiana (USI). After completing my Master's degree, I spent a year working as an NLP engineer, at Qatent, France. I mainly focused on generative tasks in the domain of patent. I then joined USI to pursue a PhD and dedicate myself fully to academic research. My doctoral studies is supervised by Prof. Dr. [Fabio Crestani](https://scholar.google.com/citations?user=EoGBsiMAAAAJ&hl=en).
 
 Interested in information retrieval (IR), with a particular focus on 
 
