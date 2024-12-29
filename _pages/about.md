@@ -22,9 +22,9 @@ My Profile:
 
 Publications
 ======
-1. **Lili Lu**, Chuan Meng, Federico Ravenda, Mohammad Aliannejadi, Fabio Crestani. **Zero-Shot and Efficient Clarification Need Prediction in Conversational Search**. Accepted by ECIR'25
-2. Ivan Sekulić, **Lili Lu**, Navdeep Singh Bedi, Fabio Crestani. **Simulating Conversational Search Users with Parameterized Behavior**. SIGIR-AP'24 [[link]](https://dl.acm.org/doi/pdf/10.1145/3673791.3698425)
-3. Isin Su Ecevit, **Lili Lu**, Fabio Crestani. **Responses to Conversational Information Retrieval Clarifying Questions with User Emotions**. EMTCIR/UM-CIR@SIGIR-AP'24 [[link]](https://ceur-ws.org/Vol-3854/um-cir-2.pdf)
+1. **Lili Lu**, Chuan Meng, Federico Ravenda, Mohammad Aliannejadi, Fabio Crestani. **Zero-Shot and Efficient Clarification Need Prediction in Conversational Search**. **ECIR'25**: The 47th European Conference on Information Retrieval [To appear]
+2. Ivan Sekulić, **Lili Lu**, Navdeep Singh Bedi, Fabio Crestani. **Simulating Conversational Search Users with Parameterized Behavior**. **SIGIR-AP'24**: Proceedings of the 2024 Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region [[link]](https://dl.acm.org/doi/pdf/10.1145/3673791.3698425)
+3. Isin Su Ecevit, **Lili Lu**, Fabio Crestani. **Responses to Conversational Information Retrieval Clarifying Questions with User Emotions**. **EMTCIR/UM-CIR@SIGIR-AP'24**: Joint Proceedings of the 1st Workshop on Evaluation Methodologies,Testbeds and Community for Information Access Research (EMTCIR 2024) and the 1st Workshop on User Modelling in Conversational Information Retrieval (UM-CIR 2024) co-located with the 2nd International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (SIGIR-AP 2024), Tokyo, Japan, December 12, 2024 [[link]](https://ceur-ws.org/Vol-3854/um-cir-2.pdf)
 
 
 Teaching & Supervision
