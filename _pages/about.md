@@ -42,8 +42,8 @@ Education
   - Supervisor: Prof. Dr. [Fabio Crestani](https://scholar.google.com/citations?user=EoGBsiMAAAAJ&hl=en)
 
 * August 2020 – September 2022    
-  - Master in Data Science, KTH, Sweden (EIT Digital Program Year 1)
-  - Master in Artifical Intelligence, Université Paris-Saclay, France (EIT Digital Program Year 2)
+  - Master in Data Science, KTH, Sweden (Year 1)
+  - Master in Artifical Intelligence, Université Paris-Saclay, France (Year 2)
  
 * September 2012 – June 2016  
   - Bachelor in Mathematics and Applied Mathematics, Donghua University, China  
